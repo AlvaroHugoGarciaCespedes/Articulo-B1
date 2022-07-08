@@ -5,4 +5,4 @@ User-agent: *
 Disallow: /search
 Allow: /
 
-Sitemap: https://alvarohugogarciacespedes.github.io/Articulo-B1/
+Sitemap: https://alvarohugogarciacespedes.github.io/Articulo-B1/sitemap.xml
